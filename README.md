@@ -51,7 +51,11 @@ Understand the differences in usage patterns between **annual members** and **ca
 
 ---
 
-# 📊 **Interactive Dashboards**
+
+## 🖥️ **Interactive Dashboard**
+🎯 Explore the dashboard live on Tableau Public https://public.tableau.com/app/profile/swapna.macha/viz/BikeShareAnalysis_17329044088830/Dashboard1
+---
+
 ![image](https://github.com/user-attachments/assets/5975ba95-b10a-4eba-aacf-274559ef6b36)
 
 # 🖼️ **Dashboard key visuals explained**
