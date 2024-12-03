@@ -110,7 +110,6 @@ A pie chart showing the proportion of casual riders versus members. Casual rider
 - 🎯 Launch targeted marketing campaigns during **summer months**.
 
 ---
----
 
 ## 🤝 **Acknowledgments**
 - Data provided by **Motivate International Inc.** under license.
