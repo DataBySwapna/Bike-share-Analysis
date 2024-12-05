@@ -2,60 +2,44 @@
 
 Welcome to the **Cyclistic Bike-Share Case Study**! This project analyzes 12 months of historical trip data from Cyclistic, a bike-share company, to uncover usage patterns and propose actionable insights for increasing annual memberships. 🌟
 
-![image](https://github.com/user-attachments/assets/bd992f53-a0b2-4a3c-94a1-8dd8cbdf0038)
+ ![image](https://github.com/user-attachments/assets/3986eda4-1154-4a1a-b238-095c79dfe6f4)
 ---
-
 ## 🎯 **Goal**
 Understand the differences in usage patterns between **annual members** and **casual riders**, providing insights to design marketing strategies aimed at converting casual riders into loyal members. 🚴‍♂️
 ---
-
 ## 📋 **Project Description**
 - Analyzed 12 months of historical trip data.
 - Created **interactive dashboards** using Tableau and Excel.
 - Compared key metrics such as ride duration, seasonal trends, and bike preferences.
 - Proposed actionable recommendations for increasing member subscriptions.
-
 ---
-
 ## 🛠️ **Tools & Technologies**
 - **Microsoft Excel**: Data cleaning, preparation
 - **Tableau**: Visuals and dashboards 
   **SQL**: For querying and transforming the data 🔍.
-
 ---
-
 ## 📈 **Skills Applied**
 - **Data Cleaning and Transformation** 🧹
 - **Data Analysis and Visualization** 🔎
 - **Critical Thinking and Insights** 💡
 - **Business Intelligence Reporting** 🖥️
-
 ---
-
 ## 🧩 **Process Followed**
 1. **Data Collection** 📥:
    - Obtained 12 months of Cyclistic trip data from public records.
-
 2. **Data Cleaning and Preparation** 🧽:
    - Removed duplicates and standardized time and date formats.
-
 3. **Exploratory Data Analysis** 📊:
    - Segmented users into **casual riders** and **members**.
    - Analyzed metrics like ride duration, bike type, and seasonal patterns.
-
 4. **Visualization Design** 🎨:
    - Built dashboards in Tableau and Excel highlighting trends and outliers.
-
 5. **Insights and Recommendations** 🔮:
    - Found actionable insights for improving Cyclistic’s membership offerings.
-
 ---
-
-
 ## 🖥️ **Interactive Dashboard**
 🎯 Explore the dashboard live on Tableau Public https://public.tableau.com/app/profile/swapna.macha/viz/BikeShareAnalysis_17329044088830/Dashboard1
 ---
-
 ![image](https://github.com/user-attachments/assets/5975ba95-b10a-4eba-aacf-274559ef6b36)
 
 # 🖼️ **Dashboard key visuals explained**
@@ -87,8 +71,13 @@ A pie chart showing the proportion of casual riders versus members. Casual rider
 - Both groups show similar peak hours (morning and evening), reflecting commute timings.
 - Casual riders exhibit slightly more activity during midday and late evenings.
 ---
-
-- ## 📌 **Recommendations**
+## 🔍 **Key Findings**
+1. Casual riders prefer **longer rides** on weekends, while members prefer **short rides** on weekdays.
+2. Both groups favor **classic and electric bikes** over docked bikes.
+3. Seasonal peaks occur in **summer** (June–September).
+4. Both groups ride significantly less during **winter months**.
+---
+## 📌 **Recommendations**
 1. **Flexible Membership Plans**:
    - Introduce weekend or hourly-based memberships for casual riders.
 2. **Increase Bike Availability**:
@@ -98,27 +87,7 @@ A pie chart showing the proportion of casual riders versus members. Casual rider
 4. **Seasonal Promotions**:
    - Offer discounted memberships in winter to boost ridership.
 ---
-
-## 🔍 **Key Findings**
-1. Casual riders prefer **longer rides** on weekends, while members prefer **short rides** on weekdays.
-2. Both groups favor **classic and electric bikes** over docked bikes.
-3. Seasonal peaks occur in **summer** (June–September).
-4. Both groups ride significantly less during **winter months**.
-
----
-## 📌 **Recommendations**
-- 💡 Introduce flexible membership plans for casual riders:
-  - Weekend passes for long rides.
-  - Hourly packages for frequent riders.
-- 🚴‍♀️ Expand the fleet of **electric and classic bikes** to meet high demand.
-- 🎯 Launch targeted marketing campaigns during **summer months**.
-
----
-
 ## 🤝 **Acknowledgments**
 - Data provided by **Motivate International Inc.** under license.
 - This project is part of the **Google Data Analytics Capstone**.
-
 ---
-
-
