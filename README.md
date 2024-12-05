@@ -5,7 +5,7 @@ Welcome to the **Cyclistic Bike-Share Case Study**! This project analyzes 12 mon
  ![image](https://github.com/user-attachments/assets/3986eda4-1154-4a1a-b238-095c79dfe6f4)
 ---
 ## 🎯 **Goal**
-Understand the differences in usage patterns between **annual members** and **casual riders**, providing insights to design marketing strategies aimed at converting casual riders into loyal members. 🚴‍♂️
+- Understand the differences in usage patterns between **annual members** and **casual riders**, providing insights to design marketing strategies aimed at converting casual riders into loyal members. 🚴‍♂️
 ---
 ## 📋 **Project Description**
 - Analyzed 12 months of historical trip data.
