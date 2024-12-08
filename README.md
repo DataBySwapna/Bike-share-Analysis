@@ -42,7 +42,7 @@ Welcome to the **Cyclistic Bike-Share Case Study**! This project analyzes 12 mon
 ---
 ![image](https://github.com/user-attachments/assets/5975ba95-b10a-4eba-aacf-274559ef6b36)
 
-# 🖼️ **Dashboard key visuals explained**
+## 🖼️ **Dashboard key visuals explained**
 ### **1. Rider Preferences**
 ![image](https://github.com/user-attachments/assets/628bec61-d6d7-426c-a6e8-c0b3148b78e9)
 ---
